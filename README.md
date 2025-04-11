@@ -35,7 +35,6 @@ Welcome to my capstone ePortfolio! Here you’ll find:
 Focus: UI/UX refactoring, MVVM architecture, secure coding
 
 - 📄 **Narrative**: [Milestone Two Enhancement One – Software Design & Engineering](Milestone2_Enhancement1_Software_Design_and_Engineering.md)  
-- 📦 **Code Branch**: [`Enhancement1_Software_Design`](https://github.com/christaylor261/Computer-Science-Capstone-2025/compare/main...Enhancement1_Software_Design)  
 - ✅ **Status**: Completed & merged  
 
 ---
@@ -46,7 +45,6 @@ Focus: UI/UX refactoring, MVVM architecture, secure coding
 Focus: Optimized sorting/filtering, safe arithmetic
 
 - 📄 **Narrative**: [Milestone Three Enhancement Two – Algorithms & Data Structure](Milestone3_Enhancement2_Algorithms_and_Data_Structure.md)  
-- 📦 **Code Branch**: [`Enhancement2_Algorithms`](https://github.com/christaylor261/Computer-Science-Capstone-2025/compare/main...Enhancement2_Algorithms)  
 - ✅ **Status**: Completed & merged  
 
 ---
@@ -57,12 +55,11 @@ Focus: Optimized sorting/filtering, safe arithmetic
 Focus: Room indexing on `date`, date‑range DAO query
 
 - 📄 **Narrative**: [Milestone Four Enhancement Three – Databases](Milestone4_Enhancement3_Databases.md)  
-- 📦 **Code Branch**: [`Enhancement3_Databases`](https://github.com/christaylor261/Computer-Science-Capstone-2025/compare/main...Enhancement3_Databases)  
 - ✅ **Status**: Completed & merged  
 
 ---
 
-## Professional Self‑Assessment
+## Professional Self-Assessment
 
 Reflecting on my journey through the Computer Science program and alignment with the program outcomes.
 

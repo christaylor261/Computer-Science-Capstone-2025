@@ -13,23 +13,23 @@ Welcome to my capstone ePortfolio! Here you’ll find:
 
 ## 📑 Table of Contents
 
-1. [Code Review](#1-code-review)  
-2. [Enhancement One: Software Design & Engineering](#2-enhancement-one-software-design--engineering)  
-3. [Enhancement Two: Algorithms & Data Structures](#3-enhancement-two-algorithms--data-structures)  
-4. [Enhancement Three: Databases](#4-enhancement-three-databases)  
-5. [Professional Self‑Assessment](#5-professional-self-assessment)  
-6. [Live GitHub Pages Site](#6-live-github-pages-site)  
+1. [Code Review](#code-review)  
+2. [Enhancement One: Software Design & Engineering](#enhancement-one-software-design--engineering)  
+3. [Enhancement Two: Algorithms & Data Structures](#enhancement-two-algorithms--data-structures)  
+4. [Enhancement Three: Databases](#enhancement-three-databases)  
+5. [Professional Self‑Assessment](#professional-self-assessment)  
+6. [Live GitHub Pages Site](#live-github-pages-site)  
 
 ---
 
-## 1. Code Review
+## Code Review
 
 **Artifact:** Original Weight Tracking App  
 **Video Walkthrough:** [▶️ Code Review on YouTube](https://youtu.be/your-video-id)
 
 ---
 
-## 2. Enhancement One: Software Design & Engineering
+## Enhancement One: Software Design & Engineering
 
 **Milestone Two**  
 Focus: UI/UX refactoring, MVVM architecture, secure coding
@@ -40,7 +40,7 @@ Focus: UI/UX refactoring, MVVM architecture, secure coding
 
 ---
 
-## 3. Enhancement Two: Algorithms & Data Structures
+## Enhancement Two: Algorithms & Data Structures
 
 **Milestone Three**  
 Focus: Optimized sorting/filtering, safe arithmetic
@@ -51,7 +51,7 @@ Focus: Optimized sorting/filtering, safe arithmetic
 
 ---
 
-## 4. Enhancement Three: Databases
+## Enhancement Three: Databases
 
 **Milestone Four**  
 Focus: Room indexing on `date`, date‑range DAO query
@@ -62,15 +62,15 @@ Focus: Room indexing on `date`, date‑range DAO query
 
 ---
 
-## 5. Professional Self‑Assessment
+## Professional Self‑Assessment
 
 Reflecting on my journey through the Computer Science program and alignment with the program outcomes.
 
-- 📄 **Document**: [Professional Self‑Assessment](Professional_Self_Assessment.docx)  
+- 📄 **Document**: [Professional Self‑Assessment](Professional_Self_Assessment.md)  
 
 ---
 
-## 6. Live GitHub Pages Site
+## Live GitHub Pages Site
 
 Browse the polished ePortfolio online:  
 https://christaylor261.github.io/Computer-Science-Capstone-2025/
@@ -78,4 +78,4 @@ https://christaylor261.github.io/Computer-Science-Capstone-2025/
 ---
 
 > _Thank you for visiting my ePortfolio!_  
-> — Christopher Taylor, CS‑499 Capstone 2025  
+> — Christopher Taylor, CS‑499 Capstone 2025

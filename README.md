@@ -17,7 +17,7 @@ Welcome to my capstone ePortfolio! Here you’ll find:
 2. [Enhancement One: Software Design & Engineering](#enhancement-one-software-design--engineering)  
 3. [Enhancement Two: Algorithms & Data Structures](#enhancement-two-algorithms--data-structures)  
 4. [Enhancement Three: Databases](#enhancement-three-databases)  
-5. [Professional Self‑Assessment](#professional-self-assessment)  
+5. [Professional Self-Assessment](#professional-self-assessment)
 6. [Live GitHub Pages Site](#live-github-pages-site)  
 
 ---
@@ -62,7 +62,7 @@ Focus: Room indexing on `date`, date‑range DAO query
 
 ---
 
-## Professional Self‑Assessment
+## Professional Self-Assessment
 
 Reflecting on my journey through the Computer Science program and alignment with the program outcomes.
 

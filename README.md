@@ -13,12 +13,12 @@ Welcome to my capstone ePortfolio! Here you’ll find:
 
 ## 📑 Table of Contents
 
-1. [Code Review](#code-review)  
-2. [Enhancement One: Software Design & Engineering](#enhancement-one-software-design--engineering)  
-3. [Enhancement Two: Algorithms & Data Structures](#enhancement-two-algorithms--data-structures)  
-4. [Enhancement Three: Databases](#enhancement-three-databases)  
-5. [Professional Self‑Assessment](#professional-self-assessment)  
-6. [Live GitHub Pages Site](#live-github-pages-site)  
+1. [Code Review](#1-code-review)  
+2. [Enhancement One: Software Design & Engineering](#2-enhancement-one-software-design--engineering)  
+3. [Enhancement Two: Algorithms & Data Structures](#3-enhancement-two-algorithms--data-structures)  
+4. [Enhancement Three: Databases](#4-enhancement-three-databases)  
+5. [Professional Self‑Assessment](#5-professional-self-assessment)  
+6. [Live GitHub Pages Site](#6-live-github-pages-site)  
 
 ---
 

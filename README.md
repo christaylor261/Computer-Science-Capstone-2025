@@ -1,4 +1,4 @@
-# 🎓 Computer Science Capstone 2025 ePortfolio
+# Computer Science Capstone 2025 ePortfolio
 
 Welcome to my capstone ePortfolio! Here you’ll find:
 
@@ -12,7 +12,7 @@ Welcome to my capstone ePortfolio! Here you’ll find:
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 1. [Code Review](#code-review)  
 2. [Enhancement One: Software Design & Engineering](#enhancement-one-software-design--engineering)  
@@ -36,8 +36,8 @@ Welcome to my capstone ePortfolio! Here you’ll find:
 **Milestone Two**  
 Focus: UI/UX refactoring, MVVM architecture, secure coding
 
-- 📄 **Narrative**: [Milestone Two Enhancement One – Software Design & Engineering](Milestone2_Enhancement1_Software_Design_and_Engineering.md)  
-- ✅ **Status**: Completed & merged  
+- **Narrative**: [Milestone Two Enhancement One – Software Design & Engineering](Milestone2_Enhancement1_Software_Design_and_Engineering.md)  
+- **Status**: Completed & merged  
 
 ---
 
@@ -46,8 +46,8 @@ Focus: UI/UX refactoring, MVVM architecture, secure coding
 **Milestone Three**  
 Focus: Optimized sorting/filtering, safe arithmetic
 
-- 📄 **Narrative**: [Milestone Three Enhancement Two – Algorithms & Data Structure](Milestone3_Enhancement2_Algorithms_and_Data_Structure.md)  
-- ✅ **Status**: Completed & merged  
+- **Narrative**: [Milestone Three Enhancement Two – Algorithms & Data Structure](Milestone3_Enhancement2_Algorithms_and_Data_Structure.md)  
+- **Status**: Completed & merged  
 
 ---
 
@@ -56,8 +56,8 @@ Focus: Optimized sorting/filtering, safe arithmetic
 **Milestone Four**  
 Focus: Room indexing on `date`, date‑range DAO query
 
-- 📄 **Narrative**: [Milestone Four Enhancement Three – Databases](Milestone4_Enhancement3_Databases.md)  
-- ✅ **Status**: Completed & merged  
+- **Narrative**: [Milestone Four Enhancement Three – Databases](Milestone4_Enhancement3_Databases.md)  
+- **Status**: Completed & merged  
 
 ---
 
@@ -65,7 +65,7 @@ Focus: Room indexing on `date`, date‑range DAO query
 
 Reflecting on my journey through the Computer Science program and alignment with the program outcomes.
 
-- 📄 **Document**: [Professional Self‑Assessment](Professional_Self_Assessment.md)  
+- **Document**: [Professional Self‑Assessment](Professional_Self_Assessment.md)  
 
 ---
 
@@ -73,18 +73,18 @@ Reflecting on my journey through the Computer Science program and alignment with
 
 Browse or download the Android Studio source code files for each module:
 
-- 📦 [WeightTrackingAppOrig.zip](WeightTrackingAppOrig.zip) — Original base app  
-- 📦 [WeightTracking Module 3.zip](WeightTracking%20Module%203.zip) — Software Design enhancement  
-- 📦 [WeightTrackingModule4.zip](WeightTrackingModule4.zip) — Algorithms enhancement  
-- 📦 [WeightTrackingModule5.zip](WeightTrackingModule5.zip) — Database enhancement  
-- 📦 [WeightTrackingFinal.zip](WeightTrackingFinal.zip) — Final polished version
+-  [WeightTrackingAppOrig.zip](WeightTrackingAppOrig.zip) — Original base app  
+-  [WeightTracking Module 3.zip](WeightTracking%20Module%203.zip) — Software Design enhancement  
+-  [WeightTrackingModule4.zip](WeightTrackingModule4.zip) — Algorithms enhancement  
+-  [WeightTrackingModule5.zip](WeightTrackingModule5.zip) — Database enhancement  
+-  [WeightTrackingFinal.zip](WeightTrackingFinal.zip) — Final polished version
 
 ---
 
 ## Live GitHub Pages Site
 
-📂 View the live version of this portfolio:  
-🔗 [https://christaylor261.github.io/Computer-Science-Capstone-2025/](https://christaylor261.github.io/Computer-Science-Capstone-2025/)
+ View the live version of this portfolio:  
+ [https://christaylor261.github.io/Computer-Science-Capstone-2025/](https://christaylor261.github.io/Computer-Science-Capstone-2025/)
 
 ---
 

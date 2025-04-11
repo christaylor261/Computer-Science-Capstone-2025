@@ -1,8 +1,8 @@
 # 🎓 Computer Science Capstone 2025 ePortfolio
 
-Welcome to my capstone ePortfolio!  Here you’ll find:
+Welcome to my capstone ePortfolio! Here you’ll find:
 
-- A **Code Review** of my original artifact  
+- A **Code Review** walkthrough video  
 - Three **enhancements** demonstrating growth in:
   1. Software Design & Engineering  
   2. Algorithms & Data Structures  
@@ -25,10 +25,8 @@ Welcome to my capstone ePortfolio!  Here you’ll find:
 ## 1. Code Review
 
 **Artifact:** Original Weight Tracking App  
-**Created:** CS 360: Mobile Architecture & Programming
-
-- **Video Walkthrough**: [YouTube – Code Review](https://youtu.be/your‐video‐id)  
-- **Document**: [1‑Code‑Review–WeightTracker.docx](3-1%20Code%20Review%20Weight%20Tracker.docx)
+**Video Walkthrough:**  
+[▶️ Code Review on YouTube](https://youtu.be/your‐video‐id)
 
 ---
 
@@ -37,37 +35,37 @@ Welcome to my capstone ePortfolio!  Here you’ll find:
 **Milestone Two**  
 Focus: UI/UX refactoring, MVVM architecture, secure coding
 
-- **Narrative**: [3‑2 Milestone Two Enhancement One–Software Design.docx](3-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design.docx)  
-- **Code Branch**: [`Enhancement1_Software_Design`](https://github.com/your‑repo/compare/main...Enhancement1_Software_Design)  
-- **Status**: Completed & merged  
+- 📄 **Narrative**: [3-2 Milestone Two Enhancement One Software Design and Engineering](3-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering.docx)  
+- 📦 **Code Branch**: [`Enhancement1_Software_Design`](https://github.com/your‑repo/compare/main...Enhancement1_Software_Design)  
+- ✅ **Status**: Completed & merged  
 
 ---
 
 ## 3. Enhancement Two: Algorithms & Data Structures
 
 **Milestone Three**  
-Focus: Optimized sorting/filtering, safe arithmetic
+Focus: Optimized sorting/filtering routines, safe arithmetic
 
-- **Narrative**: [4‑2 Milestone Three Enhancement Two–Algorithms.docx](4-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms.docx)  
-- **Code Branch**: [`Enhancement2_Algorithms`](https://github.com/your‑repo/compare/main...Enhancement2_Algorithms)  
-- **Status**: Completed & merged  
+- 📄 **Narrative**: [4-2 Milestone Three Enhancement Two Algorithms and Data Structure](4-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure.docx)  
+- 📦 **Code Branch**: [`Enhancement2_Algorithms`](https://github.com/your‑repo/compare/main...Enhancement2_Algorithms)  
+- ✅ **Status**: Completed & merged  
 
 ---
 
 ## 4. Enhancement Three: Databases
 
 **Milestone Four**  
-Focus: Room indexing, date‐range DAO query
+Focus: Room indexing on `date`, date‑range DAO query
 
-- **Narrative**: [5‑2 Milestone Four Enhancement Three–Databases.docx](5-2%20Milestone%20Four%20Enhancement%20Three%20Databases.docx)  
-- **Code Branch**: [`Enhancement3_Databases`](https://github.com/your‑repo/compare/main...Enhancement3_Databases)  
-- **Status**: Completed & merged  
+- 📄 **Narrative**: [5-2 Milestone Four Enhancement Three Databases](5-2%20Milestone%20Four%20Enhancement%20Three%20Databases.docx)  
+- 📦 **Code Branch**: [`Enhancement3_Databases`](https://github.com/your‑repo/compare/main...Enhancement3_Databases)  
+- ✅ **Status**: Completed & merged  
 
 ---
 
 ## 5. Professional Self‑Assessment
 
-My capstone reflection, career goals, and alignment with program outcomes.
+Reflecting on my journey through the Computer Science program and how each enhancement maps to the program outcomes.
 
 - 📄 **Document**: [Professional_Self_Assessment.docx](Professional_Self_Assessment.docx)  
 
@@ -75,19 +73,10 @@ My capstone reflection, career goals, and alignment with program outcomes.
 
 ## 6. Live GitHub Pages Site
 
-You can also browse a more polished, navigable version of this portfolio at:
-
-> https://your‑github‑username.github.io/Computer-Science-Capstone-2025/
+Browse the polished ePortfolio online:  
+https://your‑github‑username.github.io/Computer-Science-Capstone-2025/
 
 ---
 
-### 🛠 How this README is formatted
-
-- **Headings:** `#` through `######`  
-- **Bold:** `**bold text**`  
-- **Italic:** `*italic text*`  
-- **Links:** `[link text](relative/or/absolute/url)`  
-- **Code blocks:**  
-  ```kotlin
-  // example code
-  fun hello() { println("world") }
+> _Thank you for visiting my ePortfolio!_  
+> — Christopher Taylor, CS‑499 Capstone 2025  

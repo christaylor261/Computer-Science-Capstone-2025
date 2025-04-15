@@ -2,32 +2,40 @@
 
 Welcome to my capstone ePortfolio! Here you’ll find:
 
+- A **Professional Self‑Assessment**
 - A **Code Review** walkthrough video  
 - Three **enhancements** demonstrating growth in:
   1. Software Design & Engineering  
   2. Algorithms & Data Structures  
   3. Databases  
-- My **Professional Self‑Assessment**
 - Full Android Studio source code ZIPs
 
 ---
 
 ## Table of Contents
 
-1. [Code Review](#code-review)  
-2. [Enhancement One: Software Design & Engineering](#enhancement-one-software-design--engineering)  
-3. [Enhancement Two: Algorithms & Data Structures](#enhancement-two-algorithms--data-structures)  
-4. [Enhancement Three: Databases](#enhancement-three-databases)  
-5. [Professional Self-Assessment](#professional-self-assessment)  
+1. [Professional Self-Assessment](#professional-self-assessment)  
+2. [Code Review](#code-review)  
+3. [Enhancement One: Software Design & Engineering](#enhancement-one-software-design--engineering)  
+4. [Enhancement Two: Algorithms & Data Structures](#enhancement-two-algorithms--data-structures)  
+5. [Enhancement Three: Databases](#enhancement-three-databases)  
 6. [Code Artifacts (ZIPs)](#code-artifacts-zips)  
 7. [Live GitHub Pages Site](#live-github-pages-site)
+
+---
+
+## Professional Self-Assessment
+
+Reflecting on my journey through the Computer Science program and alignment with the program outcomes.
+
+- **Document**: [Professional Self‑Assessment](Professional_Self_Assessment.md)  
 
 ---
 
 ## Code Review
 
 **Artifact:** Original Weight Tracking App  
-**Video Walkthrough:** [▶️ Code Review on YouTube](https://youtu.be/your-video-id)
+**Video Walkthrough:** [▶Code Review on YouTube](https://youtu.be/your-video-id)
 
 ---
 
@@ -61,30 +69,22 @@ Focus: Room indexing on `date`, date‑range DAO query
 
 ---
 
-## Professional Self-Assessment
-
-Reflecting on my journey through the Computer Science program and alignment with the program outcomes.
-
-- **Document**: [Professional Self‑Assessment](Professional_Self_Assessment.md)  
-
----
-
 ## Code Artifacts (ZIPs)
 
 Browse or download the Android Studio source code files for each module:
 
--  [WeightTrackingAppOrig.zip](WeightTrackingAppOrig.zip) — Original base app  
--  [WeightTracking Module 3.zip](WeightTracking%20Module%203.zip) — Software Design enhancement  
--  [WeightTrackingModule4.zip](WeightTrackingModule4.zip) — Algorithms enhancement  
--  [WeightTrackingModule5.zip](WeightTrackingModule5.zip) — Database enhancement  
--  [WeightTrackingFinal.zip](WeightTrackingFinal.zip) — Final polished version
+- [WeightTrackingAppOrig.zip](WeightTrackingAppOrig.zip) — Original base app  
+- [WeightTracking Module 3.zip](WeightTracking%20Module%203.zip) — Software Design enhancement  
+- [WeightTrackingModule4.zip](WeightTrackingModule4.zip) — Algorithms enhancement  
+- [WeightTrackingModule5.zip](WeightTrackingModule5.zip) — Database enhancement  
+- [WeightTrackingFinal.zip](WeightTrackingFinal.zip) — Final polished version
 
 ---
 
 ## Live GitHub Pages Site
 
- View the live version of this portfolio:  
- [https://christaylor261.github.io/Computer-Science-Capstone-2025/](https://christaylor261.github.io/Computer-Science-Capstone-2025/)
+Browse the live version of this portfolio:  
+[https://christaylor261.github.io/Computer-Science-Capstone-2025/](https://christaylor261.github.io/Computer-Science-Capstone-2025/)
 
 ---
 

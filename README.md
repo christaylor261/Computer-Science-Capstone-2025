@@ -35,7 +35,7 @@ Reflecting on my journey through the Computer Science program and alignment with
 ## Code Review
 
 **Artifact:** Original Weight Tracking App  
-**Video Walkthrough:** [▶Code Review on YouTube](https://youtu.be/your-video-id)
+**Video Walkthrough:** [Watch Code Review on YouTube](https://youtu.be/PiIy3x4om0w)
 
 ---
 
